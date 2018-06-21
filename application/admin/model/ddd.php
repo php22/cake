@@ -11,5 +11,8 @@ namespace app\admin\model;
 
 class ddd
 {
+    public function index()
+    {
 
+    }
 }
