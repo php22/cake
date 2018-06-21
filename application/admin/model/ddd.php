@@ -13,6 +13,6 @@ class ddd
 {
     public function index()
     {
-        echo 123;
+        echo 1234;
     }
 }
